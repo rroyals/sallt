@@ -1,0 +1,2 @@
+# sallt
+Virtualized XRP Wallet
